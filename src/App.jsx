@@ -107,7 +107,7 @@ export default function App() {
 
       <footer className="max-w-6xl mx-auto mt-16 flex justify-between items-center text-slate-700 text-[10px] uppercase tracking-[0.2em]">
         <p>Major Project</p>
-        <p>Developed by [AMAN SHARMA]</p>
+        <p>Developed by AMAN SHARMA</p>
       </footer>
     </div>
   );
